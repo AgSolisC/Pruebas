@@ -1,6 +1,7 @@
 class Numbers:
 
-    def _init_(self):
+    numbers = []
+     
         self.Numbers = []
 
     def range(self):
