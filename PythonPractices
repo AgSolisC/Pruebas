@@ -1,5 +1,6 @@
 def rango ():
-    for num in range (1,20):
+    numbers = []
+    for num in range (5):
         if num%15 == 0:
             result = "FIZZBUZZ"
         elif num%5 == 0:
@@ -8,4 +9,6 @@ def rango ():
             result = "FIZZ"
         else:
             result = num
-    return result
+        numbers.append(result)
+    print (numbers)
+    return numbers
