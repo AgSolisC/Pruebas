@@ -1,0 +1,30 @@
+When the parameter in the function range is 11
+  The result is : ['FIZZBUZZ', 1, 2, 'FIZZ', 4, 'BUZZ', 'FIZZ', 7, 8, 'FIZZ', 'BUZZ']
+  
+  
+ When the parameter in the function range is 5
+    The result is : ['FIZZBUZZ', 1, 2, 'FIZZ', 4]
+    
+    
+When the parameter in the function range is 21
+    The result is : ['FIZZBUZZ', 1, 2, 'FIZZ', 4, 'BUZZ', 'FIZZ', 7, 8, 'FIZZ', 'BUZZ', 11, 'FIZZ', 13, 14, 'FIZZBUZZ', 16, 17, 'FIZZ', 19, 'BUZZ']
+    
+    
+ When the parameter in the function range is 10
+     The result is : ['FIZZBUZZ', 1, 2, 'FIZZ', 4, 'BUZZ', 'FIZZ', 7, 8, 'FIZZ']
+     
+ 
+ When the parameter in the function range is 3
+     The result is : ['FIZZBUZZ', 1, 2]
+     
+     
+ When the parameter in the function is 15
+     The result is : ['FIZZBUZZ', 1, 2, 'FIZZ', 4, 'BUZZ', 'FIZZ', 7, 8, 'FIZZ', 'BUZZ', 11, 'FIZZ', 13, 14]
+     
+     
+  When the parameter in the function range is 1
+      The result is : ['FIZZBUZZ']
+     
+     
+      
+ 
